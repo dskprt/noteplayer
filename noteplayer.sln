@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noteplayer", "noteplayer\noteplayer.csproj", "{050AF6B2-7B43-4671-A6D6-E944B2E3DACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{050AF6B2-7B43-4671-A6D6-E944B2E3DACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050AF6B2-7B43-4671-A6D6-E944B2E3DACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050AF6B2-7B43-4671-A6D6-E944B2E3DACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050AF6B2-7B43-4671-A6D6-E944B2E3DACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D908C39-0B54-4061-B40D-CB04E651330C}
+	EndGlobalSection
+EndGlobal
