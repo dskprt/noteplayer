@@ -1,2 +1,2 @@
-only works on 720p videos for now
+only works on 720p videos for now (unless u resize the window lol)
 uses hardware acceleration for iterating through the video (opencv) and software rendering for rendering the frames i think
